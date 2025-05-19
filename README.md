@@ -66,15 +66,15 @@ Lottie (animations)
 📸 Screenshots
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](home.png)
+![Home](home2.png)
 
 ### Cart Screen
-![Cart](screenshots/cart.png)
+![Cart](cart.png)
 
 ### Favorite Screen
-![Details](screenshots/favorite.png)
+![Details](favorite.png)
 
-In-app payment integration
 
 📄 License
 
